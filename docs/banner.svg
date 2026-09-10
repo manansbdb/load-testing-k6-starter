@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Load Testing k6 Starter banner"><defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7d64ff"/><stop offset="55%" stop-color="#0ea5e9"/><stop offset="100%" stop-color="#f43f5e"/></linearGradient><filter id="soft"><feGaussianBlur stdDeviation="18"/></filter></defs><rect width="1200" height="200" fill="url(#bg)"/><circle cx="200" cy="20" r="90" fill="#22c55e" opacity="0.2" filter="url(#soft)"/><circle cx="1000" cy="180" r="110" fill="#7d64ff" opacity="0.18" filter="url(#soft)"/><polygon points="80,100 115,40 150,100 115,160" fill="#0ea5e9" opacity="0.4"/><polygon points="160,100 195,40 230,100 195,160" fill="#f43f5e" opacity="0.4"/><polygon points="240,100 275,40 310,100 275,160" fill="#22c55e" opacity="0.4"/><polygon points="900,100 935,40 970,100 935,160" fill="#0ea5e9" opacity="0.4"/><polygon points="980,100 1015,40 1050,100 1015,160" fill="#f43f5e" opacity="0.4"/><polygon points="1060,100 1095,40 1130,100 1095,160" fill="#22c55e" opacity="0.4"/><text x="600" y="95" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#ffffff">Load Testing k6 Starter</text><text x="600" y="140" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="20" fill="#ffffff" opacity="0.9">manansbdb · docs · EN + PT · MIT</text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-label="Load Testing K6 Starter banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="480" fill="url(#bg)"/>
+  <circle cx="1320" cy="70" r="190" fill="#2dd4bf" opacity="0.22"/>
+  <circle cx="80" cy="420" r="150" fill="#a78bfa" opacity="0.18"/>
+  <circle cx="980" cy="420" r="110" fill="#f8fafc" opacity="0.08"/>
+  <g fill="none" stroke="#e2e8f0" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M36 36h28M36 36v28"/><path d="M1564 36h-28M1564 36v28"/>
+    <path d="M36 444h28M36 444v-28"/><path d="M1564 444h-28M1564 444v-28"/>
+  </g>
+  <text x="72" y="150" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" fill="#f8fafc">Load Testing K6 Starter</text>
+  <text x="72" y="210" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#e0f2fe">Sample k6 script for HTTP load testing.</text>
+  <g>
+    <rect x="72" y="250" rx="16" ry="16" width="210" height="56" fill="#022c22" stroke="#a78bfa" stroke-width="2"/>
+    <text x="177" y="286" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#bbf7d0">MIT · EN + PT</text>
+    <rect x="300" y="250" rx="16" ry="16" width="210" height="56" fill="#1e1b4b" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="405" y="286" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#ddd6fe">Zero paywall</text>
+  </g>
+  <g>
+    <rect x="980" y="120" width="240" height="120" rx="22" fill="url(#card)" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="1100" y="175" text-anchor="middle" font-size="34">✨</text>
+    <text x="1100" y="215" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f8fafc">Clone &amp; use</text>
+    <rect x="1240" y="160" width="240" height="120" rx="22" fill="url(#card)" stroke="#a78bfa" stroke-width="2"/>
+    <text x="1360" y="215" text-anchor="middle" font-size="34">🚀</text>
+    <text x="1360" y="255" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f8fafc">Ship faster</text>
+  </g>
+  <text x="72" y="360" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#cbd5e1">manansbdb · open source · practical kits</text>
+</svg>
